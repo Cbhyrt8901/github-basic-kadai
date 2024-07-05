@@ -1,0 +1,2 @@
+5cc387f (HEAD -> main) 日本語訳を追記
+e906403 hello_world.txtを追加
